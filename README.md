@@ -33,7 +33,7 @@ Plant lover? Dev? Both? Feel free to contribute by making a pull request!
 
 ## Authors
 
-* **Ana Berrocal** - *Initial work* - [anaberrocal](https://github.com/AnaBerrocal)
+* **Ana Berrocal** - *Initial work* - [anaberrocal](https://anaberrocal.com)
 
 ## Acknowledgments
 
