@@ -34,4 +34,4 @@ Plant lover? Dev? Both? Feel free to contribute by making a pull request!
 ## Acknowledgments
 
 * Thank you to the team at Trefle for creating this API.
-* Inspired by my love for plants and their care but a big thank you goes out to the "myGarden" app by Gardena in the App Store for additional inspiration.
+* Inspired by my love for plants but a thank you goes out to the "myGarden" app by Gardena in the App Store for additional inspiration.
