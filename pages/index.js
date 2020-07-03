@@ -1,8 +1,7 @@
-import React,  { Component } from 'react';
 import Layout from '../components/Layout';
 import fetch from 'isomorphic-unfetch';
 
-export default class extends Component {
+export default class extends React.Component {
     static async getInitialProps() {
         const res = await fetch("https://v0.trefle.io/api/plants/token=QnN1ZktEU1ZyQ2NKNWRmbEwxNnNpQT09");
         const data = await res.json();
@@ -17,10 +16,14 @@ export default class extends Component {
     render () {
         return (
             <Layout>
-            <div>
+            <div className="body">
                 <h1 className="heading">hey, got plants tonight?</h1>
             <style jsx>
                 {`
+                .body {
+                    background-color: '#c9e0a6';
+                }
+                
                 .heading {
                     color: white;
                     font-family: 'Ubuntu', sans-serif;
