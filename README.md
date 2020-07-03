@@ -16,10 +16,6 @@ Run the "npm i" command to install Next, React and React-Dom into your project.
 
 Run the "npm run dev" command to serve the application on your localhost.
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 * [Next.js](https://nextjs.org/docs) - The React framework used
