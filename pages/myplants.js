@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import Layout from '../components/Layout'
 
-export default class myplants extends React.Component {
+export default class myplants extends Component {
     render() {
         return (
             <Layout>

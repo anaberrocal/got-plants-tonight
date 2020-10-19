@@ -1,15 +1,12 @@
 
-export default class Plants extends React.Component {
-    state = {
-        plant: plant,
-        image: plant,
-    }
-    
-    render() {
-        return (
+const Plants = (props) => {
+
+return(
             <div>
-                Plants
+                Name = {props.name}
             </div>
-        )
-    }
+)
+     
 }
+
+export default Plants;
